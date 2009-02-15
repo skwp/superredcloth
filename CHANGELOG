@@ -1,0 +1,4 @@
+= 4.0
+=== 27th January 2007
+
+* Rewrote RedCloth using the Ragel State Machine Compiler.  Ten times faster and more correct!
